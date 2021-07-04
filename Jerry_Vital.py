@@ -1,3 +1,9 @@
+##########################################
+#               JERRY VITAL              #
+#                    By                  #
+#               Jérémy DRON              #
+##########################################
+
 from tkinter import *
 import sqlite3 as sq
 dictMois = ["Janvier","Février","Mars","Avril","Mai","Juin","Juillet","Aout","Septembre","Octobre","Novembre","Décembre"]
